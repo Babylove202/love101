@@ -1,0 +1,66 @@
+.day{
+    background-color: lightskyblue; height: 800px;
+    display: flex;
+}
+.flower{
+    padding-left: 15%;padding-top: 10%;
+}
+.light{
+    font-style: oblique;font-size: 45px ;color: white; padding-top: 7%;padding-left: 20%;
+}
+.dark{
+    font-style: oblique;padding-left: 20%;
+}
+.tom{
+    font-size: 20px;margin-left: 20%;font-style: oblique; border: none;padding: 3%;
+}
+.jerry{
+   padding-left: 20%;padding-top: 10%; 
+}
+.gray{
+   display: flex;
+
+}
+.purple{
+    background-color: aquamarine; height: 350px; padding-left: 3%; padding-top: 2%; width: 100%;
+}
+.pink{
+    color: white; padding-top: 1%;
+}
+.orange{
+    font-style: oblique;font-size: 25px;
+}
+.blue{
+    margin-bottom: 5%;padding:1%; border-radius: 18px; background: none;border-color: white;
+}
+
+.brown{
+    background-color:gold;height: 350px;padding-top: 2%; padding-left: 3%; width: 100%;
+}
+.yellow{
+    color: white;
+}
+.gold{
+    font-style: oblique;font-size:25px ;
+}
+.mall{
+    margin-bottom:5% ;padding: 1%;border-radius:18px ;background: none;border-color: white;
+}
+.dog{
+    background-color: darkcyan;height: 350px; padding-top: 2%; padding-left: 3%; width: 100%;
+}
+.cat{
+    color: white; font-style: oblique; 
+}
+.num{
+    font-style: oblique;font-size:25px ;
+}
+.down{
+    margin-bottom:5% ;padding: 1%;border-radius: 18px;background:none ;border-color: white;
+}
+
+
+
+#hover:hover{
+  filter: grayscale(40 );
+}
